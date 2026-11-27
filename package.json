@@ -1,0 +1,14 @@
+{
+  "name": "open-file-dialog-veilig",
+  "version": "1.0.0",
+  "description": "open-file-dialog uit electron-api-demos, herschreven naar het veilige Electron-patroon",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "node test.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^33.4.11"
+  }
+}
